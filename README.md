@@ -53,3 +53,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=100&section=footer" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=K4izox&theme=radical&no-bg=true&margin-w=4&margin-h=4" />
+</p>

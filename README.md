@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:EA4335&height=200&section=header&text=Reza%20Fahlevi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<h1 align="center">
+  👾 Hi there, I'm Reza Fahlevi
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=34A853&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+initializing_system...+%5BOK%5D;%3E+loading_cybersecurity_modules...+%5BOK%5D;%3E+access_granted+%F0%9F%94%93;%3E+welcome%2C+Reza_Fahlevi" alt="Terminal Boot" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Informatics+Student;Cybersecurity+Enthusiast;Software+Developer;CTF+Player+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -61,14 +61,6 @@
 
 ---
 
-### 🧊 Isometric Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/K4izox/K4izox/main/metrics.isocalendar.svg" width="90%" />
-</p>
-
----
-
 ### 🚩 CTF & Security Write-ups
 
 > Check out my [`ctf-writeups`](https://github.com/K4izox/ctf-writeups) repo for challenge breakdowns and forensic case studies.
@@ -79,10 +71,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/K4izox/K4izox/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4335,50:34A853,100:4285F4&height=100&section=footer" />
 </p>
 
 <p align="center">

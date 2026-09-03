@@ -61,12 +61,6 @@
 
 ---
 
-### 🚩 CTF & Security Write-ups
-
-> Check out my [`ctf-writeups`](https://github.com/K4izox/ctf-writeups) repo for challenge breakdowns and forensic case studies.
-
----
-
 ### 📈 Contribution Snake
 
 <p align="center">
